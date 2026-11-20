@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ovais Arif 👋</h1>
+<h1 align="center">Hi, I'm Ovais Godil 👋</h1>
 <h3 align="center">Full Stack Software Developer · SaaS · Web Apps · APIs · AI Integration</h3>
 
 <p align="center">
@@ -60,6 +60,28 @@ I'm a full stack developer with **12+ years** of experience building custom web 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+
+---
+
+### 📂 Featured projects
+
+**🚀 Full Stack Projects**
+- [AI Proposal Generator](https://github.com/Ovais-Arif/fullstack-ai-proposal-generator-fastapi-pinecone) – FastAPI · OpenAI GPT-4o · Pinecone · MongoDB · Tailwind
+- [RAG Knowledge Hub](https://github.com/Ovais-Arif/fullstack-ai-rag-knowledge-hub-langchain) – FastAPI · LangChain · OpenAI · Pinecone · JWT
+
+**🧩 Backend Projects**
+- [AI WhatsApp Assistant for Car Dealerships](https://github.com/Ovais-Arif/backend-ai-whatsapp-dealership-saas) – Multi-tenant SaaS · FastAPI · Supabase · Agentic RAG
+- [Sentiment-Based TAO Staking System](https://github.com/Ovais-Arif/backend-fastapi-celery-redis-tao-staking) – FastAPI · Celery · Redis · MongoDB · Docker
+
+**📱 Mobile Apps**
+- [Healthcare Appointment App](https://github.com/Ovais-Arif/mobile-app-flutter-healthcare-booking) – Flutter · Dart · Android & iOS
+- [OweGo Trip Expense Splitter](https://github.com/Ovais-Arif/mobile-app-ios-swiftui-owego-expense-splitter) – Swift · SwiftUI · SwiftData
+
+**🔌 Developer Tools**
+- [Agora Voice Mentor – Android Studio Plugin](https://github.com/Ovais-Arif/plugin-android-studio-agora-voice-mentor) – Kotlin · IntelliJ Platform · Agora Conversational AI
+
+**🌐 Frontend / Web**
+- [Web Projects Collection](https://github.com/Ovais-Arif/frontend-web-projects-angularjs-react-firebase) – JavaScript · AngularJS · React · Firebase
 
 ---
 
